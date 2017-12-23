@@ -1,5 +1,4 @@
-# PROGRAM BY CARAMITTI INC.
-#PROGRAM FOR FIND NUMBER PRIME FACTORS
+
 # PYTHON 2.x
 def trova_primi(x):
     verifica=0
